@@ -3087,6 +3087,10 @@
   label: Leanpay
   group: other
 -
+  name: raiffeisenbank
+  label: Raiffeisen Bank
+  group: other
+-
   name: buckaroopayments
   label: Buckaroo Payments
   group: other
